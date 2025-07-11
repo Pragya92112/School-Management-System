@@ -18,8 +18,8 @@ A robust and user-friendly web application designed to streamline the management
 
 | Layer         | Technology                          |
 |---------------|--------------------------------------|
-| **Frontend**  | Angular / HTML5 / CSS3 / JavaScript |
-| **Backend**   | Node.js / Express / .NET / Java     |
-| **Database**  | MySQL / MongoDB / SQL Server        |
+| **Frontend**  | Angular / HTML5 / CSS3 / TypeScript |
+| **Backend**   | Node.js / C# / .NET                 |
+| **Database**  | SQL Server                          |
 | **Tools**     | Git, GitHub, Postman, Visual Studio Code |
 
